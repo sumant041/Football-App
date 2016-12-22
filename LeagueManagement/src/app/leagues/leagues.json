@@ -1,0 +1,31 @@
+[{
+        "name": "League1",
+        "teamsCount": "2",
+        "status": ""
+    },
+    {
+        "name": "League2",
+        "teamsCount": "7",
+        "status": ""
+    },
+    {
+        "name": "League3",
+        "teamsCount": "2",
+        "status": ""
+    },
+    {
+        "name": "League4",
+        "teamsCount": "5",
+        "status": ""
+    },
+    {
+        "name": "League5",
+        "teamsCount": "2",
+        "status": ""
+    },
+    {
+        "name": "League6",
+        "teamsCount": "9",
+        "status": ""
+    }
+]
