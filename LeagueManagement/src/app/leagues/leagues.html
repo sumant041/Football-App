@@ -1,0 +1,18 @@
+<div class="main-container">
+    <league-header></league-header>
+    <main class="main">
+        <div class="techs-container">
+            <h2 class="techs-h2">
+                Cooked with all these awesome technologies:
+            </h2>
+            <div class="techs">
+                <div ng-repeat="league in $ctrl.leagues">
+                    <h1>
+                        {{league.name}}
+                    </h1>
+                </div>
+            </div>
+        </div>
+    </main>
+    <league-footer></league-footer>
+</div>

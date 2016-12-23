@@ -1,0 +1,31 @@
+[{
+        "name": "Team1",
+        "teamsCount": "2",
+        "status": ""
+    },
+    {
+        "name": "Team2",
+        "teamsCount": "7",
+        "status": ""
+    },
+    {
+        "name": "Team3",
+        "teamsCount": "2",
+        "status": ""
+    },
+    {
+        "name": "Team4",
+        "teamsCount": "5",
+        "status": ""
+    },
+    {
+        "name": "Team5",
+        "teamsCount": "2",
+        "status": ""
+    },
+    {
+        "name": "Team6",
+        "teamsCount": "9",
+        "status": ""
+    }
+]
